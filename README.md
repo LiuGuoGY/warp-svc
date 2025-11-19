@@ -59,3 +59,5 @@ services:
       proxy: warp:1080
 ```
 
+### 升级到最新版本
+
